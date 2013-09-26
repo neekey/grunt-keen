@@ -1,0 +1,25 @@
+{
+    "name": "grunt-keen",
+    "version": "0.0.1",
+    "description": "A grunt plugin to simplify your keen use with your grunt-command tool",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/neekey/grunt-keen.git"
+    },
+    "bugs": {
+        "url": "http://github.com/neekey/grunt-keen/issues/new"
+    },
+    "keywords": [
+        "gruntplugin"
+    ],
+    "contributors": [
+        {
+            "name": "yinruo",
+            "email": "yinruo.nyj@taobao.com"
+        }
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "keen.io": "0.0.3"
+    }
+}
