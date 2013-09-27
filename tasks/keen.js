@@ -54,8 +54,6 @@ module.exports = function (grunt) {
     }
 
     keen.addEvent( CONFIG.eventName, DEFAULT_DATA );
-
-    console.log( 'DONE!' );
 };
 
 
